@@ -13,6 +13,11 @@ description:      'Fumbling with tech. Gadget reviews. Reach out <a href="https:
 url:              http://heymicky.github.io
 baseurl:          /
 
+pages_list:       
+  About: '/about'
+  Archive: '/archive'
+  Feed: '/atom.xml'
+
 author:
   name:           'Micky Hingorani'
   url:            http://mickyhingorani.com
