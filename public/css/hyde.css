@@ -177,6 +177,16 @@ a.sidebar-nav-item:focus {
 
 /* Base16 (http://chriskempson.github.io/base16/#default) */
 
+
+/* Navy */
+.theme-base-navy .sidebar {
+  background-color: #364559;
+}
+.theme-base-navy .content a,
+.theme-base-08 .related-posts li a:hover {
+  color: ;#ad0701;
+}
+
 /* Red */
 .theme-base-08 .sidebar {
   background-color: #ac4142;
