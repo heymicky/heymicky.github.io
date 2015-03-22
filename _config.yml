@@ -9,7 +9,7 @@ relative_permalinks: true
 # Setup
 title:            Micky Blogs
 tagline:          'A Jekyll theme'
-description:      'Fumbling with tech. Gadget reviews. Contact <a href="https://twitter.com/heymicky" target="_blank">@mheymicky</a>.'
+description:      'Fumbling with tech. Gadget reviews. Reach out <a href="https://twitter.com/heymicky" target="_blank">@heymicky</a>.'
 url:              http://heymicky.github.io
 baseurl:          /
 
@@ -18,9 +18,3 @@ author:
   url:            http://mickyhingorani.com
 
 paginate:         5
-
-# Custom vars
-version:          2.1.0
-
-github:
-  repo:           https://github.com/heymicky.github.io
