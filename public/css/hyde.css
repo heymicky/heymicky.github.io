@@ -177,6 +177,14 @@ a.sidebar-nav-item:focus {
 
 /* Base16 (http://chriskempson.github.io/base16/#default) */
 
+/* Ocean */
+.theme-base-ocean .sidebar {
+  background-color: rgb(79,91,103);
+}
+.theme-base-ocean .content a,
+.theme-base-ocean .related-posts li a:hover {
+  color: rgb(192,95,104);
+}
 
 /* Navy */
 .theme-base-navy .sidebar {
